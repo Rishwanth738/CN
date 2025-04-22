@@ -1,0 +1,8 @@
+flask
+flask_socketio
+torch
+transformers
+peft
+accelerate
+safetensors
+bitsandbytes
